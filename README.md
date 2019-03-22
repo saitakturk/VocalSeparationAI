@@ -30,7 +30,9 @@ This repo is self-learning project that the music and its local converted to rel
 2 - The 5 sec parts is converted to spectogram images. Changed Values to get 255x256 images : 
   * Pixels per second : 51
   * Bandwitdh         : 205
+  
 3 - 1 pixel width is added end of the width( Don't put start ) to get image size 256x256 images.
+
 4 - The parts that do not contain vocals is removed from dataset via removing the images has only 0 pixel values.
 
 
