@@ -6,7 +6,7 @@ This repo is self-learning project that the music and its local converted to rel
 | Music   | Vocal   | AI Output |
 | :------------ |:---------------:| -----:|
 | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/photo_2019-03-22_03-37-53.jpg)     | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/photo_2019-03-22_03-37-49.jpg) | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/photo_2019-03-22_03-37-45.jpg) |
-| [Music Listen ](https://vocaroo.com/i/s1swG023k5yP)     | [Vocal Listen ](https://vocaroo.com/i/s1WRhavNNT0U)        |  [AI Output Listen](https://vocaroo.com/i/s1QlJP1hGwCi)  |
+| [Music Listen ](https://clyp.it/yiy0c0k3)     | [Vocal Listen ](https://clyp.it/puavpcjv)        |  [AI Output Listen](https://clyp.it/izkogklx)  |
 
 
 
