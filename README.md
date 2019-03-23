@@ -5,8 +5,10 @@ This repo is self-learning project that the music and its vocal converted to rel
 
 | Music   | Vocal   | AI Output |
 | :------------ |:---------------:| -----:|
-| ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/photo_2019-03-22_03-37-53.jpg)     | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/photo_2019-03-22_03-37-49.jpg) | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/photo_2019-03-22_03-37-45.jpg) |
-| [Music Listen ](https://clyp.it/yiy0c0k3)     | [Vocal Listen ](https://clyp.it/puavpcjv)        |  [AI Output Listen](https://clyp.it/izkogklx)  |
+| ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/images/109m.png)     | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/images/109.png) | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/images/109-outputs.png) |
+| [Music Listen ](https://clyp.it/yiy0c0k3)     | [Vocal Listen ](https://clyp.it/puavpcjv)        |  [AI Output Listen](https://clyp.it/gxqu0pdw)  |
+| ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/images/1.png)     | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/images/1v.png) | ![](https://github.com/saitakturk/VocalSeparationAI/blob/master/images/1-outputs.png) |
+|[Music Listen ](https://clyp.it/dbeiwsyp)     | [Vocal Listen ](https://clyp.it/exd5vzof)        |  [AI Output Listen](https://clyp.it/vq0dadlv)  |
 
 
 
