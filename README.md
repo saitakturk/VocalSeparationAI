@@ -28,9 +28,9 @@ This repo is self-learning project that the music and its vocal converted to rel
   * [Pix2Pix2](https://github.com/affinelayer/pix2pix-tensorflow)
   
 ## Preprocessing Details ##
-1 - The musics and vocals is splitted to 5 sec music parts.
+1 - The musics and vocals are splitted to 5 sec music parts.
 
-2 - The 5 sec parts is converted to spectogram images. Changed Values to get 255x256 images : 
+2 - The 5 sec parts are converted to spectogram images. Changed Values to get 255x256 images : 
   * Pixels per second : 51
   * Bandwitdh         : 205
   
