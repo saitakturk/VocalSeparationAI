@@ -34,7 +34,7 @@ This repo is self-learning project that the music and its vocal converted to rel
   * Pixels per second : 51
   * Bandwitdh         : 205
   
-3 - 1 pixel height is added end of the width( Don't put start ) to get image size 256x256 images.
+3 - 1 pixel height is added end of the height( Don't put start ) to get image size 256x256 images.
 
 4 - The parts that do not contain vocals is removed from dataset via removing the images has only 0 pixel values.
 
