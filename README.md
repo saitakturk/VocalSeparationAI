@@ -25,7 +25,7 @@ This repo is self-learning project that the music and its vocal converted to rel
 * I used provided repo to convert from music to spectogram and spectogram to music
   * [Spectogram Program](http://krajj7.github.io/spectrogram/)
 * I used pix2pix-tensorflow implementation to train the model
-  * [Pix2Pix2](https://github.com/affinelayer/pix2pix-tensorflow)
+  * [Pix2Pix](https://github.com/affinelayer/pix2pix-tensorflow)
   
 ## Preprocessing Details ##
 1 - The musics and vocals are splitted to 5 sec music parts.
@@ -34,7 +34,7 @@ This repo is self-learning project that the music and its vocal converted to rel
   * Pixels per second : 51
   * Bandwitdh         : 205
   
-3 - 1 pixel width is added end of the width( Don't put start ) to get image size 256x256 images.
+3 - 1 pixel height is added end of the width( Don't put start ) to get image size 256x256 images.
 
 4 - The parts that do not contain vocals is removed from dataset via removing the images has only 0 pixel values.
 
